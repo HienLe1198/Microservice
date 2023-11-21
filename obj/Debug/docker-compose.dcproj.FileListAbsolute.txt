@@ -1,0 +1,1 @@
+C:\Users\HienLT\source\repos\Microservice.WebApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
